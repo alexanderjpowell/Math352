@@ -1,0 +1,5 @@
+Kaggle
+
+username: ajpowell
+email: ajpowell@email.wm.edu	
+password: foodnetwork
